@@ -1,0 +1,19 @@
+.select
+{
+    width: 700px;
+    color: black;
+    box-shadow: 5px 5px rgb(109, 108, 108);
+}
+h1
+{
+    font-weight: bold;
+    font-size: 45px;
+}
+.button
+{
+    margin-top: 40px;
+    border: 2px solid black;
+    width: 700px;
+    height: 200px;
+    border-radius: 30px;
+}
